@@ -12,14 +12,14 @@ Photos from recent fieldwork are included below.
 
 Field work within an Alaskan fjord with the goal of measuring the ice-ocean boundary layer near icebergs.
 
-%![](/assets/images/AMZ_01.jpg)
+![](/assets/images/Leconte1.jpg)
 
 
 ### LeConte Glacier, Alaska (August 2022, forthcoming)
 
 Field work within an Alaskan fjord with the goal of measuring the ice-ocean boundary layer near a marine-terminating glacier.
 
-%![](/assets/images/AMZ_01.jpg)
+![](/assets/images/Leconte2.jpg)
 
 
 
