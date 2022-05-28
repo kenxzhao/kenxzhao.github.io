@@ -5,7 +5,10 @@ header:
 permalink: /contact/
 ---
 
-I'm always looking for new things to do and learn so if you are interested in
-any part of my work, please contact me using the information below.
+If you want to discuss science, don't hesitate to send me an email: zhaoke[at]oregonstate[dot]edu
 
-- Email: tomaschor[at]gmail.com
+Please see my Google Scholar Profile, 
+              ResearchGate Profile ,
+              Journal Review Record (Publons),
+              Twitter Account.
+- 
