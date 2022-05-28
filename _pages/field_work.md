@@ -6,31 +6,21 @@ header:
 ---
 
 
-I have done some really rewarding field work over the years while working with
-Atmospheric Boundary Layer. You can find a few pictures below.
+Photos from recent fieldwork are included below.
 
-### Amazon - BR (October 2015)
+### LeConte Glacier, Alaska (June 2022, forthcoming)
 
-Field work in the Amazon whose goal was to aid installation of instruments
-at the [ATTO project](https://www.attoproject.org/) site.
+Field work within an Alaskan fjord with the goal of measuring the ice-ocean boundary layer near icebergs.
 
-![](/assets/images/AMZ_01.jpg)
-
-![](/assets/images/AMZ_05.jpg)
+%![](/assets/images/AMZ_01.jpg)
 
 
-### Tijucas do sul - BR (around 2014)
+### LeConte Glacier, Alaska (August 2022, forthcoming)
 
-The goal of this field was to measure meteorological variables with a drone
-while also taking auxiliary micromet measurements on ground.
+Field work within an Alaskan fjord with the goal of measuring the ice-ocean boundary layer near a marine-terminating glacier.
 
-![](/assets/images/TIJ_00.jpg)
+%![](/assets/images/AMZ_01.jpg)
 
-### Itaipu lake - BR (around 2014)
 
-Continuous field campaign that lasted a year and aimed to study turbulent
-fluxes on lakes and sensor decorrelation effects.
-
-![](/assets/images/ITA_00.jpg)
 
   
