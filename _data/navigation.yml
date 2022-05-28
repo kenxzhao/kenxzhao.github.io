@@ -2,9 +2,11 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Personal projects"
-    url: /personal/
+  - title: "Movies"
+    url: /movies/
   - title: "Publications"
     url: /publications/
+  - title: "Outreach"
+    url: /outreach/
   - title: "Field work"
     url: /field_work/
