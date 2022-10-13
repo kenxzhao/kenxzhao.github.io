@@ -1,12 +1,9 @@
 ---
 title: Publications
 header:
-  image: /assets/images/vortart/banner_vorticity.png
+  image: /assets/images/Banner.png
 permalink: /publications/
 ---
-For a more in-depth list of talks, awards, publications, skills, etc., please
-check my [curriculum
-vitae](https://github.com/kenxzhao/kenxzhao.github.io/raw/master/assets/pdf/Curriculum_Vitae.pdf).
 
 See below for a list of recent publications. For a more
 complete publication list you can also visit my [Google Scholar
