@@ -1,6 +1,6 @@
 ---
 title: Field work
-permalink: /field_work/
+permalink: /fieldwork/
 header:
   image: /assets/images/Banner.png
 ---
