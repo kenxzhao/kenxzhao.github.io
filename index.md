@@ -7,23 +7,13 @@ classes: wide
 author_profile: true
 ---
 
-I'm geophysical fluid dynamicist who is interested in turbulent phenomena. In particular my main
-foci are small- and submeso-scale turbulence, which I investigate with a numerical approach (usually
-large-eddy simulations). I'm also a big believer in community-driven open-source software as a way
-to improve the reproducibility of results in science.
+I am a physical oceanographer who uses theory and numerics to understand geophysical flows in the ocean. My current focus is polar ocean dynamics - in particular how ocean circulation drive glacial melt in places where ice and ocean meet (e.g., fjords, ice shelf cavities, sea ice). More broadly, I am interested by geophysical fluid dynamics and turbulence.
 
-I'm currently working as a postdoctoral researcher at the University of Maryland's Atmospheric and
-Oceanic Science department in [Dr. Jacob Wenegrat](https://wenegrat.github.io/)'s group. 
-
-
-For an in-depth list of talks, awards, publications, skills, etc., please check my [curriculum
-vitae](https://github.com/tomchor/tomchor.github.io/raw/master/assets/pdf/phd-tomas-chor3.pdf).
-
-
+I was a NASA FINESST scholar and PhD candidate in the Atmospheric and Oceanic Sciences (AOS) Department at UCLA.
+I'm currently working as a NSF OPP postdoctoral fellow at researcher at Oregon State University as of January, 2022.
 
 ## Contact
 
-I'm always looking for new things to do and learn so if you are interested in
-any part of my work, please contact me using the information below.
+If you want to discuss science, don't hesitate to reach out to me.
 
-- Email: tomaschor[at]gmail.com
+Email: zhaoke[at]oregonstate[dot]edu
