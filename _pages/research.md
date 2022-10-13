@@ -36,7 +36,8 @@ The oceanic connections between tidewater glaciers and continental shelf waters 
 
 ### (1) Sill-Influenced Circulation in Ice Shelf Cavities
 
-![JPO paper](/assets/images/modelgeom7.png)
+
+<img src="/assets/images/modelgeom7.png" width="600">
 
 This work was highlighted on the UCLA physical sciences division website: www.physicalsciences.ucla.edu/spotlight-ken-zhao/
 
