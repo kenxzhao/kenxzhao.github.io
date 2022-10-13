@@ -16,16 +16,6 @@ Field work within an Alaskan fjord measuring the ice-ocean boundary layer near i
 
 <img src="/assets/images/June2.jpg" width="1000">
 
-<img src="/assets/images/June4.png" width="1000">
-
-![](/assets/images/June1.jpg | width=100)
-
-![](/assets/images/June2.jpg | width=100)
-
-![](/assets/images/June3.jpg | width=100)
-
-![](/assets/images/June4.png | width=100)
-
 
 ### LeConte Glacier, Alaska (August 2022)
 
