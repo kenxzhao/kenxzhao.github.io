@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomas Chor"
+title                    : "Ken Zhao"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : 
-description              : "Investigations of oceanic and atmospheric turbulence"
-url                      : #"https://tomchor.github.io"
+description              : "Polar Oceanography"
+url                      : #"https://kenxzhao.github.io"
 baseurl                  : # Subpath, if there is one.
-repository               : "tomchor/tomchor.github.io"
+repository               : "tomchor/kenxzhao.github.io"
 teaser                   : #
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
@@ -101,33 +101,34 @@ analytics:
 
 # Author information
 author:
-  name             : "Tomás L. Chor"
+  name             : "Ken X. Zhao"
   avatar           : "assets/images/TChor-02p_UCLA_cropped.jpg"
   bio              : "<br>"
-  location         : "Los Angeles, CA"
-  email            : #"tomaschor@gmail.com"
+  location         : "Corvallis, OR"
+  email            : #"zhaoke@oregonstate.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tomaschor@gmail.com"
+      url: "mailto:zhaoke@oregonstate.edu"
     - label: "Google Scholar" # This odd username is somehow brewed up by Google.
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=0uQC6kkAAAAJ&hl=en"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tomchor"
+      url: "https://scholar.google.com/citations?user=ntxj5R4AAAAJ&hl=en"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/tomchor"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Tomas-Chor"
-    - label: "Orcid"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-0854-3803"
+      url: "https://www.researchgate.net/profile/Ken_Zhao7"
+#    - label: "Orcid"
+#      icon: "fab fa-fw fa-orcid"
+#      url: "https://orcid.org/0000-0003-0854-3803"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kenxzhao"
       #    - label: "Website"
       #      icon: "fas fa-fw fa-link"
       #      url: "https://your-website.com"
-      #    - label: "Twitter"
-      #      icon: "fab fa-fw fa-twitter-square"
-      #      url: "https://twitter.com/"
+      #   
       #    - label: "Facebook"
       #      icon: "fab fa-fw fa-facebook-square"
       #      url: "https://facebook.com/"
