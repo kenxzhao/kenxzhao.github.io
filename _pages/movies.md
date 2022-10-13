@@ -9,7 +9,7 @@ The following animations below encapsulate many of the key science questions tha
 
 ### Simulations of Greenland's Glacial Fjords
 
-![GRL paper](/assets/images/greenlandwidvort.mp4)
+![GRL paper](/assets/images/greenlandwidevort.mp4)
 
 Near surface (z=-150 m) vorticity in deep warm-water glacial fjords around Greenland.
 
