@@ -8,5 +8,7 @@ main:
     url: /publications/
   - title: "Outreach"
     url: /outreach/
+  - title: "Field Work"
+    url: /fieldwork/
   - title: "Contact Info"
     url: /contact/
