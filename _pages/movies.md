@@ -21,6 +21,6 @@ Vorticity in an idealized bathtub-like glacial fjord at various depths at unprec
 
 ### Standing Eddies within Fjords
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3i6tJ4XNqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/wE-XVvphO1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3D surfaces of vorticity with realistic Ilulissat Icefjord geometry showing the emergence and evolution of standing eddies. The fjord circulation is driven by meltwater and discharge plume parameterization at the eastern boundary glacial face.
