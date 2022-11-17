@@ -19,7 +19,7 @@ Field work within an Alaskan fjord measuring the ice-ocean boundary layer near i
 
 ### LeConte Glacier, Alaska (August 2022)
 
-2-week cruise on the RV Steadfast within an Alaskan fjord to measure the ice-ocean boundary layer near both marine-terminating glaciers (and develop new instrumentation for future cruises).
+2-week cruise on the RV Steadfast within an Alaskan fjord to measure the ice-ocean boundary layer near both marine-terminating glaciers and icebergs as well as develop new instrumentation for future cruises.
 
 ![](/assets/images/Aug1.png)
 
