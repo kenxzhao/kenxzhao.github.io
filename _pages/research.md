@@ -10,6 +10,13 @@ My research is centered on polar ocean dynamics, with a recent focus on ice-ocea
 
 ## Completed Work
 
+
+### (8) Roles of Geometry and Standing Eddies in Mediating Fjord-Shelf Exchange
+
+![JPO paper](/assets/images/jpo22.png)
+
+A key feature of high resolution fjord simulations that emerges when realistic fjord bathymetries are used are standing eddies. We discovered the existence of these eddies using high-resolution MITgcm fjord simulations, which used datafrom the NASA OMG (Oceans Melting Greenland) observations. This builds on the understanding of fjord recirculation from idealized theories in projects (1),(2), and (4) by concentrating the vorticity dynamics to a series of standing eddies, which have the potential to amplify glacial melt rates.  
+ 
 ### (5) Improved Parameterizations of Vertical Ice-Ocean Interfaces.
 
 ![GRL paper](/assets/images/grl22.png)
@@ -52,10 +59,6 @@ I am co-supervising Sarah Villhauer, who is an undergraduate researcher at UCLA.
 ### (9) Submesoscale Eddies beneath Antarctic sea ice
 
 I am co-supervising Jennifer Kosty, who is an undergraduate researcher at UCLA. Jennifer is using seal and Argo data to find and analyze submesoscale eddies below sea ice around Antarctica.
-
-### (8) Roles of Geometry and Standing Eddies in Mediating Fjord-Shelf Exchange
- 
-Many of the idealized theories in projects (1),(2), and (4) above provide insight on fjord dynamics in cases with more realistic fjord geometries. However, there are additional features and nuances in fjord dynamics due to bathymetric complexity that are important for fjord dynamics and glacial melt rates.
 
 ### (7) Energy Balance in the Shallow Water Equations
  
