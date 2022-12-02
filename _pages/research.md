@@ -11,7 +11,7 @@ My research is centered on polar ocean dynamics, with a recent focus on ice-ocea
 ## Completed Work
 
 
-### (8) Roles of Geometry and Standing Eddies in Mediating Fjord-Shelf Exchange
+### (6) Roles of Geometry and Standing Eddies in Mediating Fjord-Shelf Exchange
 
 ![JPO paper](/assets/images/jpo22.png)
 
@@ -52,7 +52,11 @@ There are vast cavities forming beneath some of the fastest melting ice shelves 
 
 ## Current Work
 
-### (10) The Influence of sub-Ice Shelf Channels on Melt
+### (7) Ice-Ocean Boundary Layers
+
+I am using Direct Numerical Simulations to understand and guide observations at LeConte Glacier, Alaska and provide improved parameterizations of melting glaciers and icebergs. This work aims to provide a physical understanding of convective and shear ice-ocean boundary layers and how melt plumes may achieve a much stronger melt rate due to interaction between horizontal currents with the buoyancy-driven plume dynamics. These ideas will be tested and confirmed in upcoming field campaigns in Alaska. As part of this work, I am contributing to the deployment and development of instrumented platforms. 
+
+### (8) The Influence of sub-Ice Shelf Channels on Melt
 
 I am co-supervising Sarah Villhauer, who is an undergraduate researcher at UCLA. Sarah is using idealized models of sub ice-shelf channels to study the role of geometry on the circulations within these channels and their role in driving melt.
 
@@ -60,11 +64,11 @@ I am co-supervising Sarah Villhauer, who is an undergraduate researcher at UCLA.
 
 I am co-supervising Jennifer Kosty, who is an undergraduate researcher at UCLA. Jennifer is using seal and Argo data to find and analyze submesoscale eddies below sea ice around Antarctica.
 
-### (7) Energy Balance in the Shallow Water Equations
+### (10) Energy Balance in the Shallow Water Equations
  
 I am investigating the mean-eddy decomposition of the kinetic and potential energy balance relations in isopycnal coordinates. The differences between the energetics in isopycnal and z-coordinate systems are important to the interpretation of results using such models.
  
-### (6) Mechanisms of Barotropic Oceanic Zonal Jet Formation
+### (11) Mechanisms of Barotropic Oceanic Zonal Jet Formation
  
 Satellite altimetric observations and numerical simulations of the extra-tropical and mid-latitude oceans reveal the presence of weak zonal jets, embedded in a field of Rossby waves and mesoscale eddies. The precise mechanisms of jet formation, their interplay with waves and eddies — even their existence as distinct entities — remains a topic of debate. Here we revisit this problem through the lens of freely-evolving periodic shallow water quasi-geostrophic simulations, initialized with both wave and random-field initial conditions.
  
