@@ -5,7 +5,7 @@ header:
 permalink: /contact/
 ---
 
-If you want to discuss science, don't hesitate to send me an email: zhaoke[at]oregonstate[dot]edu
+If you want to discuss science, don't hesitate to send me an email: kenzhao[at]ucsd[dot]edu
 
 Please see my [Google Scholar
 page](https://scholar.google.com/citations?user=ntxj5R4AAAAJ&hl=en), 
