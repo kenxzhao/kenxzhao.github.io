@@ -104,8 +104,8 @@ author:
   name             : "Ken X. Zhao"
   avatar           : "assets/images/Zhao_profile2.png"
   bio              : "<br>"
-  location         : "Corvallis, OR"
-  email            : #"zhaoke@oregonstate.edu"
+  location         : "La Jolla, CA"
+  email            : #"kenzhao@ucsd.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
