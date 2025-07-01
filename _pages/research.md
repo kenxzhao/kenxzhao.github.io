@@ -5,7 +5,7 @@ header:
 permalink: /research/
 ---
 
-My research is centered on polar ocean dynamics, with a recent focus on ice-ocean interactions from the mesoscale to microscale near and around ice shelf cavities and fjords in Greenland and Antarctica. Please also see the Movies page for some visualizations of recent work.
+My research is centered on polar and coastal ocean dynamics, with a recent focus on ice-ocean interactions from the mesoscale to microscale near and around ice shelf cavities and fjords in Greenland and Antarctica as well as coastal dynamics along the Carolina shelf. Please also see the Movies page for some visualizations of recent work.
 
 
 ## Completed Work
