@@ -7,8 +7,8 @@ classes: wide
 author_profile: true
 ---
 
-I am a physical oceanographer who uses theory, numerics, and observations to understand geophysical flows in the ocean. My current focus is on how ocean circulation drives glacial melt in places where ice and ocean meet (e.g., fjords, ice shelf cavities, sea ice) and coastal dynamics. More broadly, I am interested by geophysical fluid dynamics and turbulence.
+I am an Assistant Professor in the Department of Earth, Marine, and Environmental Sciences at the University of North Carolina at Chapel Hill. I am a physical oceanographer who integrates theory, numerical modeling, and observations to study geophysical flows in the ocean. My current research focuses on how ocean circulation drives glacial melt in regions where the ocean interacts with ice such as fjords, ice shelf cavities, and sea ice. I am also interested in coastal ocean dynamics. 
 
-I’m currently an assistant professor at University of North Carolina at Chapel Hill in the Earth, Marine, and Environmetnal Sciences dept. I was formerly a Postdoctoral Scholar at Scripps Institution of Oceanography and Harvard University and completed my PhD in the Atmospheric and Oceanic Sciences Department at UCLA.
+Previously, I was a Postdoctoral Scholar at the Scripps Institution of Oceanography, Harvard University, and Oregon State University. I earned my Ph.D. in Atmospheric and Oceanic Sciences from UCLA.
 
-I will be accepting PhD students to start in 2026.
+I will be accepting Ph.D. students to begin in 2026.
